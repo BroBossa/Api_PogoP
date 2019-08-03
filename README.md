@@ -1,2 +1,3 @@
-# Api_PogoP
-apitest exercise
+# hogwarts-apitest
+
+API test framework with pytest and requests.
